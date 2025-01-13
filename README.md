@@ -52,7 +52,7 @@ I learned about Bootstrap classes that make styling so much faster and more stre
 
 ### Continued development
 
-I plan to work on my media queries and making better, smoother responsive websites. I plan to learn more about Bootstrap and implement it in a larger project.
+I plan to learn more about Bootstrap and implement it in a larger project.
 
 ## Author
 
